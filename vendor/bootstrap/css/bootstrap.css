@@ -4848,11 +4848,10 @@ input[type="button"].btn-block {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  padding: 0.75rem 1rem;
-  margin-bottom: 1rem;
+  padding: 0.75rem 0.5rem;
+  margin: 2rem 0rem 0.5rem 0rem;
   list-style: none;
-  background-color: #e9ecef;
-  border-radius: 0.25rem;
+  background-color: #EBF1F3;
 }
 
 .breadcrumb-item + .breadcrumb-item {
@@ -6284,7 +6283,6 @@ a.close.disabled {
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #fff;
   text-align: center;
 }
 
