@@ -177,6 +177,10 @@ div.category-link a:hover {
     opacity: 0.6;
 }
 
+.photo-row {
+    margin: 24px 0;
+}
+
 
 /* General Styling */
 
