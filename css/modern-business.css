@@ -183,17 +183,14 @@ div.category-link a:hover {
 
 
 .juicer-button {
-    background-color: #3B89AC!important;
-    border: none!important;
-    border-radius: .2rem!important;
-    color: #ffffff!important;
-    font-family: 'Raleway', sans-serif!important;
-    font-size: 16px!important;
-    text-transform: none!important;
+    display: none!important;
+
+    
 }
 
 .juicer-feed   {
     display: table!important;
+    padding-bottom: 25px!important;
     
 }
 
@@ -204,6 +201,7 @@ div.category-link a:hover {
 
 .insta-header {
     text-align: center;
+    margin-bottom:25px;
 }
 
 
